@@ -164,7 +164,8 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 ## Output
 
-<img width="1600" height="827" alt="exp 4 dlcd" src="https://github.com/user-attachments/assets/e5310ea9-f277-4e44-90c9-f89aeb5748dd" />
+<img width="1537" height="787" alt="exp 4" src="https://github.com/user-attachments/assets/54eb20d9-9f7b-4f9b-b52a-bbb1fb5803f0" />
+
 
 
 ## Viva-Voce Questions
